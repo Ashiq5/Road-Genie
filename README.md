@@ -1,3 +1,5 @@
 # Road-Genie
 
-https://drive.google.com/file/d/0B0fAhRKJOrpweV9RTWlST0dXR1U/view
+An Android application to assist users get an optimal route towards destination based on his/her preference
+
+Dummy dataset used
